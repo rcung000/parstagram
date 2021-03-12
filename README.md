@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Sign Up' width=''/>
+<img src='https://github.com/rcung000/parstagram/blob/main/Parstagram_Signup.gif' title='Sign Up' width=''/>
 
-<img src='' title='Log in/Log out' width=''/>
+<img src='https://github.com/rcung000/parstagram/blob/main/Parstagram_Login_Logout.gif' title='Log in/Log out' width=''/>
 
-<img src='' title='Persist' width=''/>
+<img src='https://github.com/rcung000/parstagram/blob/main/Parstagram_Persist.gif' title='Persist' width=''/>
 
-<img src='' title='Post' width=''/>
+<img src='https://github.com/rcung000/parstagram/blob/main/Parstagram_Post.gif' title='Post' width=''/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
